@@ -2,7 +2,7 @@
 Common Prefix
 
 Placeholder problem description:
-- Add the exact problem statement here (from your course or platform).
+- Add the exact problem statement here
 - Add input/output format and constraints.
 
 Suggested structure:
@@ -14,8 +14,7 @@ Example stub implementation provided — adapt or replace with your own solution
 import sys
 
 def solve(s=None):
-    """Example/placeholder implementation for common_prefix.
-    Replace with full solution.
+    """Example/placeholder implementation for common_prefix..
     """
     if s is None:
         data = sys.stdin.read().strip().split()
