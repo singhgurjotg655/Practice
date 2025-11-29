@@ -1,15 +1,3 @@
-"""
-Upgrad String
-
-Placeholder problem description:
-- Add the exact problem statement here (from your course or platform).
-- Add input/output format and constraints.
-
-Suggested structure:
-- implement `solve` which takes input from standard input and prints required output.
-
-Example stub implementation provided — adapt or replace with your own solution.
-"""
 
 import sys
 
