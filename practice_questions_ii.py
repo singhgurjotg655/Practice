@@ -2,8 +2,7 @@
 Practice Questions Ii
 
 Placeholder problem description:
-- Add the exact problem statement here (from your course or platform).
-- Add input/output format and constraints.
+- Add the exact problem statement here
 
 Suggested structure:
 - implement `solve` which takes input from standard input and prints required output.
@@ -15,7 +14,6 @@ import sys
 
 def solve(s=None):
     """Example/placeholder implementation for practice_questions_ii.
-    Replace with full solution.
     """
     if s is None:
         data = sys.stdin.read().strip().split()
