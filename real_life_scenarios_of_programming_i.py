@@ -2,7 +2,7 @@
 Real Life Scenarios Of Programming I
 
 Placeholder problem description:
-- Add the exact problem statement here (from your course or platform).
+- Add the exact problem statement here
 - Add input/output format and constraints.
 
 Suggested structure:
@@ -15,7 +15,6 @@ import sys
 
 def solve(s=None):
     """Example/placeholder implementation for real_life_scenarios_of_programming_i.
-    Replace with full solution.
     """
     if s is None:
         data = sys.stdin.read().strip().split()
