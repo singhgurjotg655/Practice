@@ -3,7 +3,6 @@ import sys
 
 def solve(s=None):
     """Example/placeholder implementation for remove_duplicates.
-    Replace with full solution.
     """
     if s is None:
         data = sys.stdin.read().strip().split()
